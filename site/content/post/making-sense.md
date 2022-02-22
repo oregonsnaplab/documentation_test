@@ -1,5 +1,5 @@
 ---
-title: "Example documentaiton page"
+title: Example documentation page
 date: 2016-12-17T15:04:10.000Z
 description: Describes a process.
 image: /img/blog-flavor_wheel.jpg
