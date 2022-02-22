@@ -1,19 +1,16 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: Contact
+logo: img/ogseal_logo.jpeg
+contact_entries: []
 ---
+<h3 class="f4 b lh-title mb2">Where can I find what I need…?</h3>
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+All the links for our current sites can be found below.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+[UO SEAL Site](https://www.uosealstudy.org/about-us)
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+[rSEAL Dashboard](https://rseal.netlify.app/)
+
+[rSEAL FamTracker](https://snaplabresearch.shinyapps.io/rSEAL_FamTracker/)
+
+[Old Documentation Site](https://rsealdocs.netlify.app/)
