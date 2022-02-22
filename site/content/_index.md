@@ -1,15 +1,11 @@
 ---
-title: Homepage Test
+title: Homepage
 subtitle: Documentation Site
 image: img/ogseal_logo.jpeg
-blurb:
-  heading: Assessment Team
-  text: Test
-intro:
-  heading: Data Team
-  text: Test Test Test
-products: []
-values:
-  heading: Other
-  text: Test test
+Data Team: []
+  heading: Data Documentation
+  text: Documentation for the assessment team.
+Assessment Team:
+  heading: Assessment Documentation
+  text: Documentation for the assessment team.
 ---
