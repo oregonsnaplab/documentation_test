@@ -2,7 +2,7 @@
 title: "Assessment Team"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "All things Assessment"
     text: >
       Here is a page for the assessment team. 
     imageUrl: "/img/about-shade-grown.jpg"
