@@ -12,21 +12,9 @@ intro:
 main:
   heading: Data Management
   description: |
-    Test Test
+    Here is where links to documentation could go. 
   image1:
     alt: Big data
     image: img/data-1.jpeg
-  image2:
-    alt: data graphic
-    image: img/data-2.jpeg
-  image3:
-    alt: lego
-    image: img/data-3.jpeg
-testimonials: []
-full_image: img/ogseal_logo.jpeg
-pricing:
-  heading: Test
-  description: NA
-  plans: []
 type: products
 ---
